@@ -1,0 +1,17 @@
+﻿生成启动时间为 2018/6/7 21:33:07。
+     1>项目“E:\物体检测与识别\自编程序\多线程通信\subThread\subThread.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\编程软件\VS2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt subThread.cpp
+         subThread.cpp
+     1>e:\物体检测与识别\自编程序\多线程通信\subthread\subthread.cpp(73): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\编程软件\vs2012\vc\include\stdio.h(357) : 参见“sprintf”的声明
+     1>e:\物体检测与识别\自编程序\多线程通信\subthread\subthread.cpp(20): warning C4101: “pi”: 未引用的局部变量
+       Link:
+         D:\编程软件\VS2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\物体检测与识别\自编程序\多线程通信\ThreadsCommunication\Debug\subThread.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\物体检测与识别\自编程序\多线程通信\ThreadsCommunication\Debug\subThread.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\物体检测与识别\自编程序\多线程通信\ThreadsCommunication\Debug\subThread.lib" /MACHINE:X86 Debug\stdafx.obj
+         Debug\subThread.obj
+         subThread.vcxproj -> E:\物体检测与识别\自编程序\多线程通信\ThreadsCommunication\Debug\subThread.exe
+     1>已完成生成项目“E:\物体检测与识别\自编程序\多线程通信\subThread\subThread.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.64
